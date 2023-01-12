@@ -6,7 +6,7 @@
 ## Citation
  
 ```
-@article{danet2023,
+@article{caa2023,
 journal={Revised version submitted},
 title={Correlation-Aware Attention CycleGAN for Accurate Fetal ECG Extraction}
 }
