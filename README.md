@@ -7,7 +7,7 @@
  
 ```
 @article{caa2023,
-journal={Revised version submitted},
+journal={submitted},
 title={Correlation-Aware Attention CycleGAN for Accurate Fetal ECG Extraction}
 }
 
