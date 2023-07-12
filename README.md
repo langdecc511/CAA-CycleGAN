@@ -16,7 +16,7 @@ title={Correlation-Aware Attention CycleGAN for Accurate Fetal ECG Extraction}
 ### Training
 ```
 
-python train.py
+python main.py
 
 ```
 
