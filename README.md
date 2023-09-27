@@ -7,9 +7,14 @@
  
 ```
 @article{caa2023,
-journal={submitted},
-title={Correlation-Aware Attention CycleGAN for Accurate Fetal ECG Extraction}
-}
+  author={Wang, Xu and He, Zhaoshui and Lin, Zhijie and Han, Yang and Su, Wenqing and Xie, Shengli},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Correlation-Aware Attention CycleGAN for Accurate Fetal ECG Extraction}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TIM.2023.3318668}}
 
 ```
 ## Method
